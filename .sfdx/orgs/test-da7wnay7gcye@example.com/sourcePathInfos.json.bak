@@ -1,0 +1,270 @@
+[
+    [
+        "C:\\DX\\myProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\DX\\myProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538495839055,
+            "changeTime": 1538495839055,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538495839055,
+            "changeTime": 1538495839055,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287861,
+            "changeTime": 1538499287861,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538495839055,
+            "changeTime": 1538495839055,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DX\\myProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\DX\\myProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538498696877,
+            "changeTime": 1538498696877,
+            "contentHash": "f62082d778594d2907687330d2be92581634d9f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account\\fields\\Test_Field__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account\\fields\\Test_Field__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1538499287771,
+            "changeTime": 1538499287771,
+            "contentHash": "e1b81119e856cfb2df640570f7f3c4ce1b0ea98c"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9584,
+            "modifiedTime": 1538499287784,
+            "changeTime": 1538499287784,
+            "contentHash": "0e63ce5d8b6ed58a79583d5db07af56bf58e512a"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9632,
+            "modifiedTime": 1538499287797,
+            "changeTime": 1538499287797,
+            "contentHash": "70b50e0cec4db0359fa1ab622694b6f57a694a0d"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9584,
+            "modifiedTime": 1538499287806,
+            "changeTime": 1538499287806,
+            "contentHash": "cbf0a024647bc4a1a9c3de61e8c38572710128da"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4479,
+            "modifiedTime": 1538499287814,
+            "changeTime": 1538499287814,
+            "contentHash": "6cdc31cfd0569592b03dac9e0f33a36b9104c9c5"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4704,
+            "modifiedTime": 1538499287822,
+            "changeTime": 1538499287822,
+            "contentHash": "18716baaa4306f086379d67463fa3e03e9859234"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4475,
+            "modifiedTime": 1538499287830,
+            "changeTime": 1538499287830,
+            "contentHash": "e239f652bab2f4d16d1cfa43a41414c12c38466d"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17880,
+            "modifiedTime": 1538499287850,
+            "changeTime": 1538499287850,
+            "contentHash": "36d6c1ef21adfddb379cc480d6a8c8af5fe123c6"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\permissionsets\\Test_Permission_Set.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\permissionsets\\Test_Permission_Set.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1538499287862,
+            "changeTime": 1538499287862,
+            "contentHash": "d5e60ae6f685c8c327e9377c95da2c406d5a8509"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287771,
+            "changeTime": 1538499287771,
+            "contentHash": "9d23cfd4c5a50f9a811be08600a65f91fd9474eb"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287768,
+            "changeTime": 1538499287768,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287768,
+            "changeTime": 1538499287768,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287806,
+            "changeTime": 1538499287806,
+            "contentHash": "68430886ac49cc8e882392a1985f481678cd5325"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287849,
+            "changeTime": 1538499287849,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538499287862,
+            "changeTime": 1538499287862,
+            "contentHash": "bb455c6ff4a52520b0446da52d6f9068fa2d08ed"
+        }
+    ]
+]

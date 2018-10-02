@@ -20,7 +20,7 @@
             "sourcePath": "C:\\DX\\myProject\\force-app\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1538495839055,
+            "modifiedTime": 1538499653191,
             "changeTime": 1538495839055,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -32,29 +32,27 @@
     [
         "C:\\DX\\myProject\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538499653191,
             "changeTime": 1538499653191,
-            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\DX\\myProject\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538495839055,
-            "changeTime": 1538495839055,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1538515142937,
+            "changeTime": 1538515142937,
+            "contentHash": "81f18c29c40d5dbb6db9f29da6f6d3de218fc16d"
         }
     ],
     [
@@ -270,40 +268,248 @@
     [
         "C:\\DX\\myProject\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538499628572,
             "changeTime": 1538499653193,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\DX\\myProject\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 158,
             "modifiedTime": 1538499866816,
             "changeTime": 1538499866816,
-            "contentHash": "b05b40b99f9a8a37a8419bca5ed0a458f79769fd"
+            "contentHash": "b05b40b99f9a8a37a8419bca5ed0a458f79769fd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\DX\\myProject\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1538499628572,
             "changeTime": 1538499628572,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538501177664,
+            "changeTime": 1538501177664,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.cmp",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.cmp",
+            "isDirectory": false,
+            "size": 124,
+            "modifiedTime": 1538501177669,
+            "changeTime": 1538501177669,
+            "contentHash": "14daf252a633707386fc66079763e90c8217b52f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_ComponentHelper.js",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_ComponentHelper.js",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1538501177675,
+            "changeTime": 1538501177675,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.css",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_Component.css",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1538501177679,
+            "changeTime": 1538501177679,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538501263519,
+            "changeTime": 1538501263519,
+            "contentHash": "01d5966d67fb804d573cbbeeee0904ca78a522ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_ComponentController.js",
+        {
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\Test_Lightning_Component\\Test_Lightning_ComponentController.js",
+            "isDirectory": false,
+            "size": 79,
+            "modifiedTime": 1538501263520,
+            "changeTime": 1538501263520,
+            "contentHash": "ebfebd837736671093c367af35ddcc0d64195c5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538515142955,
+            "changeTime": 1538515142955,
+            "contentHash": "fca879a4599caaf399a089cb713e6ca69e8e2bf5"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1538515142954,
+            "changeTime": 1538515142954,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1538515278495,
+            "changeTime": 1538515278495,
+            "contentHash": "82d12d2803ffc7c1db4ceb9e71bfd86495c47e6a"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1538515142942,
+            "changeTime": 1538515142942,
+            "contentHash": "4b39a47928005152955f27ba1d7217153bc9bad9"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1538515279715,
+            "changeTime": 1538515279715,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1538515142955,
+            "changeTime": 1538515142955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1538515142952,
+            "changeTime": 1538515142952,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1538515142944,
+            "changeTime": 1538515142944,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1538515142946,
+            "changeTime": 1538515142946,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\DX\\myProject\\force-app\\main\\default\\aura\\AnotherTestComponent\\AnotherTestComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1538515142950,
+            "changeTime": 1538515142950,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
